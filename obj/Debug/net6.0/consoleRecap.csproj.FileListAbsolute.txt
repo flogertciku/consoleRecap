@@ -1,0 +1,15 @@
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/bin/Debug/net6.0/consoleRecap
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/bin/Debug/net6.0/consoleRecap.deps.json
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/bin/Debug/net6.0/consoleRecap.runtimeconfig.json
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/bin/Debug/net6.0/consoleRecap.dll
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/bin/Debug/net6.0/consoleRecap.pdb
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.csproj.AssemblyReference.cache
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.AssemblyInfoInputs.cache
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.AssemblyInfo.cs
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.csproj.CoreCompileInputs.cache
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.dll
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/refint/consoleRecap.dll
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.pdb
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/consoleRecap.genruntimeconfig.cache
+/Users/fciku/Documents/DOCS/betaPlan/C#Shkoder/net/consoleRecap/obj/Debug/net6.0/ref/consoleRecap.dll
